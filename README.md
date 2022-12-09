@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=517470&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=najulea&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najulea&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=najulea&show_icons=true&count_private=true&hide_border=true&title_color=517470&icon_color=517470&text_color=f5f3f5&bg_color=0d1117" alt="github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najulea&layout=compact&hide_border=true&title_color=517470&text_color=f5f3f5&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +16,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/ana-julia-germano-da-costa-42a912259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://www.instagram.com/najuleacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCeozoFT97zDtMOTJGNmhdLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.youtube.com/channel/UCeozoFT97zDtMOTJGNmhdLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 </div> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=najulea&bg_color=0d1117&color=f5f3f5&line=b5c6b4&point=a4b1a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=517470&height=120&section=footer"/>
